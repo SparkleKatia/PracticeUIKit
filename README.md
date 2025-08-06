@@ -1,11 +1,6 @@
 # UI-Kit-Playground
 
 > A personal sandbox for experimenting with modern, component-driven UI patterns.  
-> Built with **React + Tailwind CSS** and inspired by popular design systems like Material 3 and Radix UI.
-
-![build status badge]
-![license badge]
-![made with love badge]
 
 ---
 
