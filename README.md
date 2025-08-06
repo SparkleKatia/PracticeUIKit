@@ -1,8 +1,6 @@
 # UI-Kit-Playground
 
-> A personal sandbox for experimenting with modern, component-driven UI patterns.  
-
----
+A personal sandbox for experimenting with modern, component-driven UI patterns.  
 
 ## ✨ What’s inside?
 
@@ -13,5 +11,3 @@
 - **Playground pages** – quick prototypes to validate layouts or motion ideas.
 
 _This repo is **not** a polished library—it’s my learning lab._
-
----
