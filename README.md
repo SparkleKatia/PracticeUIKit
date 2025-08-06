@@ -1,6 +1,6 @@
 # UI-Kit-Playground
 
-A personal sandbox for experimenting with modern, component-driven UI patterns.  
+A personal sandbox for experimenting with UIKit.  
 
 ## ✨ What’s inside?
 
