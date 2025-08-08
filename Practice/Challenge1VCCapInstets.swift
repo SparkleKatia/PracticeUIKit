@@ -24,10 +24,6 @@ class Challenge1VCCapInstets: UIViewController {
         button.setBackgroundImage(stretchable, for: .normal)
         button.titleLabel?.font = .systemFont(ofSize: 20, weight: .semibold)
 
-        // TODO-1: create a 24×24 green image with 12-pt corner radius
-        // TODO-2: define capInsets so *all* 12-pt corners never stretch
-        // TODO-3: set that image as button.setBackgroundImage(_, for: .normal)
-
         // Layout
         view.addSubview(button)
         button.translatesAutoresizingMaskIntoConstraints = false
